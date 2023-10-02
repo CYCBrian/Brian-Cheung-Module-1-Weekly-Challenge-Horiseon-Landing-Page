@@ -4,10 +4,6 @@
     margin: 0;
 }
 
-body {
-    background-color: #d9dcd6;
-}
-
 header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -38,9 +34,13 @@ header nav ul li {
     margin-left: 25px;
 }
 
-a {
+header nav ul li a {
     color: #ffffff;
     text-decoration: none;
+}
+
+body {
+    background-color: #d9dcd6;
 }
 
 .hero {
@@ -51,14 +51,14 @@ a {
     background-position: center;
 }
 
-.content-section {
+.content {
     width: 75%;
     display: inline-block;
     margin-left: 20px;
     font-size: 16px;
 }
 
-.content {
+.content-section {
     margin-bottom: 20px;
     padding: 50px;
     height: 300px;
