@@ -1,22 +1,36 @@
+/*Reset styles for all elements*/
 * {
     box-sizing: border-box;
     padding: 0;
     margin: 0;
 }
+/*End of reset styles for all elements*/
 
+
+
+/*Styles for the body element*/
+body {
+    background-color: #d9dcd6;
+}
+/*End of styles for the body element*/
+
+
+
+/*Start of styles for the header element and navigation section*/
+/*Style for the header element*/
 header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     background-color: #2a607c;
     color: #ffffff;
 }
-
+/*Styles for the header element's h1 element*/
 header h1 {
     display: inline-block;
     font-size: 48px;
     color: #d9dcd6;
 }
-
+/*Styles for the header element's navigation section*/
 header nav {
     padding-top: 15px;
     margin-right: 20px;
@@ -24,25 +38,26 @@ header nav {
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     font-size: 20px;
 }
-
+/*Styles for the navigation section's unordered list element*/
 header nav ul {
     list-style-type: none;
 }
-
+/*Styles for the unordered list element's list item elements*/
 header nav ul li {
     display: inline-block;
     margin-left: 25px;
 }
-
+/*Styles for the list item elements' anchor elements*/
 header nav ul li a {
     color: #ffffff;
     text-decoration: none;
 }
+/*End of styles for the header elements and navigation section*/
 
-body {
-    background-color: #d9dcd6;
-}
 
+
+/*Start of styles for the figure element*/
+/*Styles for the image element class "hero"*/
 .hero {
     height: 800px;
     width: 100%;
@@ -50,14 +65,19 @@ body {
     background-size: cover;
     background-position: center;
 }
+/*End of styles for the figure element*/
 
+
+
+/*Start of styles for the main element*/
+/*Styles for the main element class "content"*/
 .content {
     width: 75%;
     display: inline-block;
     margin-left: 20px;
     font-size: 16px;
 }
-
+/*Styles for the class "content-section*/
 .content-section {
     margin-bottom: 20px;
     padding: 50px;
@@ -66,24 +86,29 @@ body {
     background-color: #0072bb;
     color: #ffffff;
 }
-
+/*Styles for the class "content-section"'s h2 elements*/
 .content-section h2 {
     margin-bottom: 20px;
     font-size: 36px;
 }
-
+/*Styles for images that float to the left*/
 .float-left {
     float: left;
     margin-right: 25px;
     max-height: 200px;
 }
-
+/*Styles for images that float to the right*/
 .float-right {
     float: right;
     margin-left: 25px;
     max-height: 200px;
 }
+/*End of styles for the main element*/
 
+
+
+/*Start of styles for the side bar*/
+/*Style for the aside element*/
 aside {
     margin-right: 20px;
     padding: 20px;
@@ -94,30 +119,36 @@ aside {
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     background-color: #2589bd;
 }
-
+/*Styles for section class "benefit"*/
 .benefit {
     margin-bottom: 32px;
     color: #ffffff;
 }
-
+/*Styles for the section class "benefit"'s h3 elements*/
 .benefit h3 {
     margin-bottom: 10px;
     text-align: center;
 }
-
+/*Styles for the section class "benefit"'s image elements*/
 .benefit img {
     display: block;
     margin: 10px auto;
     max-width: 150px;
 }
+/*End of styles for the side bar*/
 
+
+
+/*Start of styles for the footer element*/
+/*Styles for the footer element*/
 footer {
     padding: 30px;
     clear: both;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     text-align: center;
 }
-
+/*Styles for the h4 in the foot element*/
 footer h4 {
     font-size: 20px;
 }
+/*End of styles for the footer element*/
