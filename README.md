@@ -18,8 +18,10 @@ Clicking on any of the navigation tabs will let you jump to their corresponding 
 
 ## Links
 [Access My Site Here](INSERT URL HERE AFTER DEPLOYMENT)
+
 [Access My GitHub Here](https://github.com/CYCBrian/Brian-Cheung-Module-1-Weekly-Challenge-Horiseon-Landing-Page)
 
 ## Credits
 Xpert Learning Assistant
+
 W3Schools - Semantic Elements
