@@ -17,7 +17,7 @@ No dependencies and requirements.
 Clicking on any of the navigation tabs will let you jump to their corresponding section of the website.
 
 ## Links
-[Access My Site Here](INSERT URL HERE AFTER DEPLOYMENT)
+[Access My Site Here](https://cycbrian.github.io/Brian-Cheung-Module-1-Weekly-Challenge-Horiseon-Landing-Page/)
 
 [Access My GitHub Here](https://github.com/CYCBrian/Brian-Cheung-Module-1-Weekly-Challenge-Horiseon-Landing-Page)
 
