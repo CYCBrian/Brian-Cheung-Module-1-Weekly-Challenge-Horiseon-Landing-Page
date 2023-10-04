@@ -16,7 +16,7 @@ body {
 
 
 
-/*Start of styles for the header element and navigation section*/
+/*Start of styles for the header element and navigation bar*/
 /*Style for the header element*/
 header {
     padding: 20px;
@@ -25,34 +25,34 @@ header {
     color: #ffffff;
 }
 /*Styles for the header element's h1 element*/
-header h1 {
+.company-logo {
     display: inline-block;
     font-size: 48px;
     color: #d9dcd6;
 }
-/*Styles for the header element's navigation section*/
-header nav {
+/*Styles for the header element's navigation bar*/
+.nav-bar {
     padding-top: 15px;
     margin-right: 20px;
     float: right;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     font-size: 20px;
 }
-/*Styles for the navigation section's unordered list element*/
-header nav ul {
+/*Styles for the navigation bar's unordered list element*/
+.nav-bar ul {
     list-style-type: none;
 }
 /*Styles for the unordered list element's list item elements*/
-header nav ul li {
+.nav-bar ul li {
     display: inline-block;
     margin-left: 25px;
 }
 /*Styles for the list item elements' anchor elements*/
-header nav ul li a {
+.nav-bar ul li a {
     color: #ffffff;
     text-decoration: none;
 }
-/*End of styles for the header elements and navigation section*/
+/*End of styles for the header elements and navigation bar*/
 
 
 
@@ -108,8 +108,8 @@ header nav ul li a {
 
 
 /*Start of styles for the side bar*/
-/*Style for the aside element*/
-aside {
+/*Style for the aside element class "side-bar"*/
+.side-bar {
     margin-right: 20px;
     padding: 20px;
     clear: both;
@@ -119,17 +119,17 @@ aside {
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     background-color: #2589bd;
 }
-/*Styles for section class "benefit"*/
+/*Styles for section elements class "benefit"*/
 .benefit {
     margin-bottom: 32px;
     color: #ffffff;
 }
-/*Styles for the section class "benefit"'s h3 elements*/
+/*Styles for the section elements class "benefit"'s h3 elements*/
 .benefit h3 {
     margin-bottom: 10px;
     text-align: center;
 }
-/*Styles for the section class "benefit"'s image elements*/
+/*Styles for the section elements class "benefit"'s image elements*/
 .benefit img {
     display: block;
     margin: 10px auto;
