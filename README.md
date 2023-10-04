@@ -5,7 +5,7 @@ This project involves refactoring an existing website for a marketing agency to 
 This is accomplished by improving the HTML structure, adding appropriate alt attributes to images and icons, consolidating CSS, bug fixing, ans ensuring a logical structure of both HTML and CSS.
 
 ## Screenshots
-[Screenshots of My Site](assets\Screenshot\Horiseon-Screenshot-1.jpg)
+[Screenshots of My Site](assets/Screenshot/Horiseon-Screenshot-1.jpg)
 [Screenshots of My Site](assets\Screenshot\Horiseon-Screenshot-2.jpg)
 [Screenshots of My Site](assets\Screenshot\Horiseon-Screenshot-3.jpg)
 
