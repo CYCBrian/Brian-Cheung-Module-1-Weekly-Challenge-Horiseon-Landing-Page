@@ -10,7 +10,7 @@ This is accomplished by improving the HTML structure, adding appropriate alt att
 ![Screenshots of My Site](assets\Screenshot\Horiseon-Screenshot-3.jpg)
 
 ## Installation
-Simply click on the provided URL in the "## Links" section to access the refactored website.
+Simply click on the provided URL in the "Links" section to access the refactored website.
 No dependencies and requirements.
 
 ## Usage
