@@ -6,8 +6,8 @@ This is accomplished by improving the HTML structure, adding appropriate alt att
 
 ## Screenshots
 [Screenshots of My Site](assets/Screenshot/Horiseon-Screenshot-1.jpg)
-[Screenshots of My Site](assets\Screenshot\Horiseon-Screenshot-2.jpg)
-[Screenshots of My Site](assets\Screenshot\Horiseon-Screenshot-3.jpg)
+[Screenshots of My Site](assets/Screenshot/Horiseon-Screenshot-2.jpg)
+[Screenshots of My Site](assets/Screenshot/Horiseon-Screenshot-3.jpg)
 
 ## Installation
 Simply click on the provided URL in the "Links" section to access the refactored website.
